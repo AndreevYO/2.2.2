@@ -1,4 +1,4 @@
-package web.controller;
+package web.Model;
 
 public class Car {
     private String carModel;
